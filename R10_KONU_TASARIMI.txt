@@ -1,155 +1,123 @@
 [CENTER]
 [IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/banner_01_header.png[/IMG]
-[I][SIZE=1][COLOR=#718096](Görsel 1: Ana Başlık Banner'ı - images/banner_01_header.png)[/COLOR][/SIZE][/I]
 
-[SIZE=6][FONT=Trebuchet MS][B][COLOR=#00D2FF]⚡ HIRA LEAD & OUTREACH ENGINE ⚡[/COLOR][/B][/FONT][/SIZE]
-[SIZE=4][FONT=Segoe UI][COLOR=#E2E8F0][B]Google Haritalar'dan Sınırsız B2B Müşteri Verisi Toplayın & Rehbere Kaydetmeden 1 Tıkla WhatsApp'tan Satışa Başlayın![/B][/COLOR][/FONT][/SIZE]
+[SIZE=6][FONT=Trebuchet MS][B][COLOR=#00D2FF]? HIRA LEAD & OUTREACH ENGINE ?[/COLOR][/B][/FONT][/SIZE]
+[SIZE=4][FONT=Segoe UI][COLOR=#E2E8F0][B]Google Haritalar'dan S?n?rs?z B2B M??teri Verisi Toplay?n & Rehbere Kaydetmeden 1 T?kla WhatsApp'tan Sat??a Ba?lay?n![/B][/COLOR][/FONT][/SIZE]
 
-[COLOR=#4A5568]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/COLOR]
+[COLOR=#4A5568]????????????????????????????????????????????????????????????????????????[/COLOR]
 
 [SIZE=3][FONT=Segoe UI]
-[COLOR=#10B981][B]✔ %100 SIFIR DIŞ API MALİYETİ[/B][/COLOR]  |  [COLOR=#F59E0B][B]✔ REHBERE EKLEMEDEN WHATSAPP[/B][/COLOR]  |  [COLOR=#3B82F6][B]✔ HWID CİHAZ KİLİDİ[/B][/COLOR]
-[COLOR=#EC4899][B]✔ TÜRKÇE EXCEL / CSV / JSON[/B][/COLOR]  |  [COLOR=#8B5CF6][B]✔ B2B REST API SEÇENEĞİ[/B][/COLOR]  |  [COLOR=#10B981][B]✔ BAYİLİK (RESELLER) ALTYAPISI[/B][/COLOR]
+[COLOR=#10B981][B]? %100 SIFIR DI? API MAL?YET?[/B][/COLOR]  |  [COLOR=#F59E0B][B]? REHBERE EKLEMEDEN WHATSAPP[/B][/COLOR]  |  [COLOR=#3B82F6][B]? HWID C?HAZ K?L?D?[/B][/COLOR]
+[COLOR=#EC4899][B]? T?RK?E EXCEL / CSV / JSON[/B][/COLOR]  |  [COLOR=#8B5CF6][B]? B2B REST API SE?ENE??[/B][/COLOR]  |  [COLOR=#10B981][B]? BAY?L?K (RESELLER) ALTYAPISI[/B][/COLOR]
 [/FONT][/SIZE]
 
-[COLOR=#4A5568]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/COLOR]
+[COLOR=#4A5568]????????????????????????????????????????????????????????????????????????[/COLOR]
 
 [QUOTE]
 [CENTER]
-[SIZE=4][COLOR=#F59E0B][B]🎁 R10.NET ÜYELERİNE ÖZEL 1 SAATLİK FULL ERİŞİM TEST LİSANSLARI 🎁[/B][/COLOR][/SIZE]
-[SIZE=3][COLOR=#CBD5E0]Sistemi hiçbir ücret ödemeden canlı test etmeniz için 3 adet lisans anahtarı hediyemizdir:[/COLOR][/SIZE]
+[SIZE=4][COLOR=#F59E0B][B]?? R10.NET ?YELER?NE ?ZEL 1 SAATL?K FULL ER???M TEST L?SANSLARI ??[/B][/COLOR][/SIZE]
+[SIZE=3][COLOR=#CBD5E0]Sistemi hi?bir ?cret ?demeden canl? test etmeniz i?in 3 adet lisans anahtar? hediyemizdir:[/COLOR][/SIZE]
 
 [IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/banner_02_trials.png[/IMG]
-[I][SIZE=1][COLOR=#718096](Görsel 2: R10 Trial Kupon Banner'ı - images/banner_02_trials.png)[/COLOR][/SIZE][/I]
 
-[FONT=Courier New][SIZE=4][B][COLOR=#38BDF8]🔑 HIRA-TRIAL-1H-3461-32DA[/COLOR][/B][/SIZE][/FONT]  [COLOR=#10B981][B][1 Saat Full | Boşta][/B][/COLOR]
-[FONT=Courier New][SIZE=4][B][COLOR=#38BDF8]🔑 HIRA-TRIAL-1H-FA5C-4F9D[/COLOR][/B][/SIZE][/FONT]  [COLOR=#10B981][B][1 Saat Full | Boşta][/B][/COLOR]
-[FONT=Courier New][SIZE=4][B][COLOR=#38BDF8]🔑 HIRA-TRIAL-1H-EDE2-0E2A[/COLOR][/B][/SIZE][/FONT]  [COLOR=#10B981][B][1 Saat Full | Boşta][/B][/COLOR]
+[FONT=Courier New][SIZE=4][B][COLOR=#38BDF8]?? HIRA-TRIAL-1H-3461-32DA[/COLOR][/B][/SIZE][/FONT]  [COLOR=#10B981][B][1 Saat Full | Bo?ta / Unused][/B][/COLOR]
+[FONT=Courier New][SIZE=4][B][COLOR=#38BDF8]?? HIRA-TRIAL-1H-FA5C-4F9D[/COLOR][/B][/SIZE][/FONT]  [COLOR=#10B981][B][1 Saat Full | Bo?ta / Unused][/B][/COLOR]
+[FONT=Courier New][SIZE=4][B][COLOR=#38BDF8]?? HIRA-TRIAL-1H-EDE2-0E2A[/COLOR][/B][/SIZE][/FONT]  [COLOR=#10B981][B][1 Saat Full | Bo?ta / Unused][/B][/COLOR]
 
 [SIZE=2][COLOR=#E2E8F0]
-[B]Nasıl Test Edilir?[/B]
-1️⃣ [URL="https://hira.luanawork.com/"][B][COLOR=#60A5FA]https://hira.luanawork.com[/COLOR][/B][/URL] adresine gidin.
-2️⃣ Canlı Arama kutusundaki lisans alanına yukarıdaki keylerden birini yapıştırın.
-3️⃣ Sektör (Örn: Diş Klinikleri, Restoranlar) ve Şehir (Örn: Kadıköy, İzmir) yazıp [B]Canlı Verileri Çek[/B]'e basın!
-[I]* Lisans süreleri ilk aramayı yaptığınız anda 1 saat olarak başlar. Keyler tükendiyse Telegram veya WhatsApp'tan yazın, hemen yeni key tanımlayalım![/I]
+[B]Nas?l Test Edilir?[/B]
+1?? [URL="https://hira.luanawork.com/"][B][COLOR=#60A5FA]https://hira.luanawork.com[/COLOR][/B][/URL] adresine gidin.
+2?? Canl? Arama kutusundaki lisans alan?na yukar?daki keylerden birini yap??t?r?n.
+3?? Sekt?r (?rn: ?zel Di? Klinikleri, Mimarlar) ve ?ehir (?rn: Kad?k?y, ?zmir) yaz?p [B]Canl? Verileri ?ek[/B]'e t?klay?n!
+[I]* Lisans s?releri ilk aramay? yapt???n?z anda 1 saat olarak ba?lar. Keyler t?kendiyse konu alt?na yorum atabilir veya Telegram (@luanamobile) ?zerinden yazabilirsiniz![/I]
 [/COLOR][/SIZE]
 [/CENTER]
 [/QUOTE]
 
-[COLOR=#4A5568]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/COLOR]
+[COLOR=#4A5568]????????????????????????????????????????????????????????????????????????[/COLOR]
 
-[SIZE=5][FONT=Trebuchet MS][B][COLOR=#F59E0B]🔍 CANLI SİSTEMDEN EKRAN GÖRÜNTÜSÜ[/COLOR][/B][/FONT][/SIZE]
-[SIZE=3][COLOR=#A0AEC0]Gerçek zamanlı çekilen veriler, tek tıkla doğrudan WhatsApp mesaj butonları ve CRM uyumlu dışa aktarma:[/COLOR][/SIZE]
+[SIZE=5][FONT=Trebuchet MS][B][COLOR=#F59E0B]?? CANLI S?STEMDEN EKRAN G?R?NT?S?[/COLOR][/B][/FONT][/SIZE]
+[SIZE=3][COLOR=#A0AEC0]Ger?ek zamanl? ?ekilen veriler, tek t?kla do?rudan WhatsApp mesaj butonlar? ve CRM uyumlu d??a aktarma:[/COLOR][/SIZE]
 
 [IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/site_live_demo_table.png[/IMG]
-[I][SIZE=1][COLOR=#718096](Görsel 3: Canlı Scraper & WhatsApp Arayüzü - images/site_live_demo_table.png)[/COLOR][/SIZE][/I]
 
-[COLOR=#4A5568]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/COLOR]
+[COLOR=#4A5568]????????????????????????????????????????????????????????????????????????[/COLOR]
 
-[SIZE=5][FONT=Trebuchet MS][B][COLOR=#38BDF8]💡 ESKİ YÖNTEMLERİ UNUTUN: NEDEN HIRA LEAD ENGINE?[/COLOR][/B][/FONT][/SIZE]
+[SIZE=5][FONT=Trebuchet MS][B][COLOR=#38BDF8]?? ESK? Y?NTEMLER? UNUTUN: NEDEN HIRA LEAD ENGINE?[/COLOR][/B][/FONT][/SIZE]
 
 [IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/banner_03_advantages.png[/IMG]
-[I][SIZE=1][COLOR=#718096](Görsel 4: Klasik Yöntemler vs Hira Karşılaştırması - images/banner_03_advantages.png)[/COLOR][/SIZE][/I]
 
 [IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/site_features_grid.png[/IMG]
-[I][SIZE=1][COLOR=#718096](Görsel 5: HIRA 6 Temel Özellik Paneli - images/site_features_grid.png)[/COLOR][/SIZE][/I]
-
-[TABLE]
-[TR]
-[TH][COLOR=#E2E8F0]Özellik[/COLOR][/TH]
-[TH][COLOR=#F87171]Geleneksel Scraper / Listeler[/COLOR][/TH]
-[TH][COLOR=#10B981]HIRA Lead Engine[/COLOR][/TH]
-[/TR]
-[TR]
-[TD][B]Google API Ücreti[/B][/TD]
-[TD][COLOR=#F87171]Aylık $200 - $2.000 fatura[/COLOR][/TD]
-[TD][B][COLOR=#10B981]0 TL — Kendi DOM ayrıştırması, sıfır API maliyeti![/COLOR][/B][/TD]
-[/TR]
-[TR]
-[TD][B]WhatsApp İletişimi[/B][/TD]
-[TD][COLOR=#F87171]Numaraları tek tek telefona kaydetme eziyeti[/COLOR][/TD]
-[TD][B][COLOR=#10B981]Rehbere eklemeden 1 Tıkla doğrudan WhatsApp sohbeti açar![/COLOR][/B][/TD]
-[/TR]
-[TR]
-[TD][B]Veri Güncelliği[/B][/TD]
-[TD][COLOR=#F87171]Aylar öncesinden kalma bayat, kapanmış numaralar[/COLOR][/TD]
-[TD][B][COLOR=#10B981]Google Haritalar'dan o an canlı çekilen %100 taze işletme verisi[/COLOR][/B][/TD]
-[/TR]
-[TR]
-[TD][B]Lisans Güvenliği[/B][/TD]
-[TD][COLOR=#F87171]Kopyalanabilir exe dosyaları, korsan riskler[/COLOR][/TD]
-[TD][B][COLOR=#10B981]Donanım Kilidi (HWID) koruması — Bayilik satışına tam uygun[/COLOR][/B][/TD]
-[/TR]
-[TR]
-[TD][B]Dışa Aktarma[/B][/TD]
-[TD][COLOR=#F87171]Bozuk karakterli CSV çıktıları[/COLOR][/TD]
-[TD][B][COLOR=#10B981]Türkçe karakter uyumlu (UTF-8 BOM) Excel, CSV ve JSON[/COLOR][/B][/TD]
-[/TR]
-[TR]
-[TD][B]REST API[/B][/TD]
-[TD][COLOR=#F87171]Boş dönen isteklerde bile kota kesen sistemler[/COLOR][/TD]
-[TD][B][COLOR=#10B981]Sorgu başı değil, sadece bulunan gerçek sonuç başı kota harcayan API![/COLOR][/B][/TD]
-[/TR]
-[/TABLE]
-
-[COLOR=#4A5568]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/COLOR]
-
-[SIZE=5][FONT=Trebuchet MS][B][COLOR=#10B981]💰 FİYATLANDIRMA & LİSANS PAKETLERİ[/COLOR][/B][/FONT][/SIZE]
-[SIZE=3][COLOR=#CBD5E0]İster masaüstü yazılım lisansı alın, ister kendi yazılımınıza B2B REST API kotası bağlayın:[/COLOR][/SIZE]
-
-[IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/site_software_pricing.png[/IMG]
-[I][SIZE=1][COLOR=#718096](Görsel 6: Hira Yazılım Lisans Paketleri - images/site_software_pricing.png)[/COLOR][/SIZE][/I]
 
 [QUOTE]
-[SIZE=4][COLOR=#F59E0B][B]💻 MASAÜSTÜ YAZILIM LİSANSLARI:[/B][/COLOR][/SIZE]
-📌 [B]Haftalık Lisans (7 Gün):[/B] [COLOR=#10B981][B]250 ₺[/B][/COLOR] — [I]Hızlı kampanya ve acil lead ihtiyaçları için[/I]
-⭐ [B]Aylık Lisans (30 Gün):[/B] [COLOR=#F59E0B][B]650 ₺[/B][/COLOR] — [I]EN ÇOK TERCİH EDİLEN! Ajanslar ve B2B satıcılar için sınırsız kullanım[/I]
-🚀 [B]Yıllık Lisans (365 Gün):[/B] [COLOR=#38BDF8][B]3.950 ₺[/B][/COLOR] — [I]VIP 7/24 Telegram Desteği + Cihaz değişikliğinde HWID sıfırlama hakkı[/I]
-🤝 [B]Bayilik (Reseller) Paketi:[/B] [COLOR=#EC4899][B]Özel Kredi Usulü[/B][/COLOR] — [I]Kendi müşterilerinize lisans üretip istediğiniz fiyattan satın![/I]
+[CENTER]
+[SIZE=4][COLOR=#10B981][B]?? HIRA LEAD ENGINE ?LE KAZANACAKLARINIZ[/B][/COLOR][/SIZE]
+[/CENTER]
+[SIZE=3][COLOR=#E2E8F0]
+?? [B][COLOR=#10B981]0 TL API Maliyeti:[/COLOR][/B] Google Maps veya OpenAI API'sine her ay y?zlerce dolar fatura ?demeye son! Taray?c?n?z ?zerinden %100 yerel veri ayr??t?r?r.
+?? [B][COLOR=#10B981]1 T?kla WhatsApp:[/COLOR][/B] Numaralar? tek tek rehbere kaydetmekle vakit kaybetmeyin. Aray?zdeki butona t?klay?n, an?nda WhatsApp Web a??ls?n!
+?? [B][COLOR=#10B981]%100 Canl? ve Taze Veri:[/COLOR][/B] Sat?n al?nan bayat, kapanm?? listeler yerine Google Haritalar'dan o an canl? i?letme bilgisi ?eker.
+?? [B][COLOR=#10B981]HWID Cihaz Kilidi:[/COLOR][/B] Her lisans donan?m kimli?ine kilitlenir. Korsan payla??lamaz, bayilik sat???na tam uygundur.
+?? [B][COLOR=#10B981]T?rk?e Excel / CSV / JSON:[/COLOR][/B] Karakter sorunu ya?amadan CRM sistemlerinize (Hubspot, Excel vb.) tek t?kla aktar?n.
+?? [B][COLOR=#10B981]Geli?mi? REST API:[/COLOR][/B] Sorgu ba??na de?il, sadece ??kan ger?ek ve do?rulanm?? sonu? say?s?na g?re kota harcar!
+[/SIZE]
+[/QUOTE]
+
+[COLOR=#4A5568]????????????????????????????????????????????????????????????????????????[/COLOR]
+
+[SIZE=5][FONT=Trebuchet MS][B][COLOR=#10B981]?? F?YATLANDIRMA & L?SANS PAKETLER?[/COLOR][/B][/FONT][/SIZE]
+[SIZE=3][COLOR=#CBD5E0]?ster masa?st? yaz?l?m lisans? al?n, ister kendi yaz?l?m?n?za B2B REST API kotas? ba?lay?n:[/COLOR][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/site_software_pricing.png[/IMG]
+
+[QUOTE]
+[SIZE=4][COLOR=#F59E0B][B]?? MASA?ST? YAZILIM L?SANSLARI:[/B][/COLOR][/SIZE]
+?? [B]Haftal?k Lisans (7 G?n):[/B] [COLOR=#10B981][B]250 ?[/B][/COLOR] ? [I]H?zl? kampanya ve acil lead ihtiya?lar? i?in[/I]
+? [B]Ayl?k Lisans (30 G?n):[/B] [COLOR=#F59E0B][B]650 ?[/B][/COLOR] ? [I]EN ?OK TERC?H ED?LEN! Ajanslar ve B2B sat?c?lar i?in s?n?rs?z kullan?m[/I]
+?? [B]Y?ll?k Lisans (365 G?n):[/B] [COLOR=#38BDF8][B]3.950 ?[/B][/COLOR] ? [I]VIP 7/24 Telegram Deste?i + Cihaz de?i?ikli?inde HWID s?f?rlama hakk?[/I]
+?? [B]Bayilik (Reseller) Paketi:[/B] [COLOR=#EC4899][B]?zel Kredi Usul?[/B][/COLOR] ? [I]Kendi m??terilerinize lisans ?retip istedi?iniz fiyattan sat?n![/I]
 [/QUOTE]
 
 [IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/banner_05_api_pricing.png[/IMG]
-[I][SIZE=1][COLOR=#718096](Görsel 7: B2B REST API Paketleri - images/banner_05_api_pricing.png)[/COLOR][/SIZE][/I]
 
 [QUOTE]
-[SIZE=4][COLOR=#38BDF8][B]⚡ GELİŞTİRİCİLER İÇİN B2B REST API (Sonuç Başına Kota):[/B][/COLOR][/SIZE]
-🔹 [B]API Başlangıç (5.000 Lead):[/B] [COLOR=#10B981][B]490 ₺[/B][/COLOR] [I](Süresiz devir, kota asla yanmaz!)[/I]
-🔥 [B]API Profesyonel (25.000 Lead):[/B] [COLOR=#F59E0B][B]1.490 ₺[/B][/COLOR] [I](Eşzamanlı 10 istek, il/ilçe filtreleme, VIP entegrasyon desteği)[/I]
-💎 [B]API Enterprise (100.000 Lead):[/B] [COLOR=#8B5CF6][B]3.900 ₺[/B][/COLOR] [I](Sınırsız istek, özel IP altyapısı, 7/24 mühendislik desteği)[/I]
+[SIZE=4][COLOR=#38BDF8][B]? GEL??T?R?C?LER ???N B2B REST API (Sonu? Ba??na Kota):[/B][/COLOR][/SIZE]
+?? [B]API Ba?lang?? (5.000 Lead):[/B] [COLOR=#10B981][B]490 ?[/B][/COLOR] [I](S?resiz devir, kota asla yanmaz!)[/I]
+?? [B]API Profesyonel (25.000 Lead):[/B] [COLOR=#F59E0B][B]1.490 ?[/B][/COLOR] [I](E?zamanl? 10 istek, il/il?e filtreleme, VIP entegrasyon deste?i)[/I]
+?? [B]API Enterprise (100.000 Lead):[/B] [COLOR=#8B5CF6][B]3.900 ?[/B][/COLOR] [I](S?n?rs?z istek, ?zel IP altyap?s?, 7/24 m?hendislik deste?i)[/I]
 [/QUOTE]
 
-[COLOR=#4A5568]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/COLOR]
+[COLOR=#4A5568]????????????????????????????????????????????????????????????????????????[/COLOR]
 
-[SIZE=5][FONT=Trebuchet MS][B][COLOR=#F59E0B]❓ SIKÇA SORULAN SORULAR (S.S.S.)[/COLOR][/B][/FONT][/SIZE]
+[SIZE=5][FONT=Trebuchet MS][B][COLOR=#F59E0B]? SIK?A SORULAN SORULAR (S.S.S.)[/COLOR][/B][/FONT][/SIZE]
 
-[B][COLOR=#38BDF8]S: Google Cloud veya harici bir API faturası öder miyim?[/COLOR][/B]
-[COLOR=#CBD5E0]C: Kesinlikle hayır! Hira, Google Maps'in tarayıcınızda açtığı arayüz üzerinden doğrudan yerel DOM ayrıştırması yapar. Google Cloud, OpenAI veya harici hiçbir servise ek kuruş ödemezsiniz.[/COLOR]
+[B][COLOR=#38BDF8]S: Google Cloud veya harici bir API faturas? ?der miyim?[/COLOR][/B]
+[COLOR=#CBD5E0]C: Kesinlikle hay?r! Hira, Google Maps'in taray?c?n?zda a?t??? aray?z ?zerinden do?rudan yerel DOM ayr??t?rmas? yapar. Google Cloud, OpenAI veya harici hi?bir servise ek kuru? ?demezsiniz.[/COLOR]
 
-[B][COLOR=#38BDF8]S: Telefon numaralarını rehbere kaydetmeden WhatsApp'tan nasıl mesaj gönderebilirim?[/COLOR][/B]
-[COLOR=#CBD5E0]C: Hira çekilen her işletmenin yanına tek tıkla çalışan WhatsApp butonu ekler. Tıkladığınız anda doğrudan WhatsApp Web sohbet ekranı açılır, numarayı rehberinize kaydetmeniz gerekmez.[/COLOR]
+[B][COLOR=#38BDF8]S: Telefon numaralar?n? rehbere kaydetmeden WhatsApp'tan nas?l mesaj g?nderebilirim?[/COLOR][/B]
+[COLOR=#CBD5E0]C: Hira ?ekilen her i?letmenin yan?na tek t?kla ?al??an WhatsApp butonu ekler. T?klad???n?z anda do?rudan WhatsApp Web sohbet ekran? a??l?r, numaray? rehberinize kaydetmeniz gerekmez.[/COLOR]
 
-[B][COLOR=#38BDF8]S: HWID Lisans Kilidi nedir? Bilgisayarımı değiştirirsem ne olur?[/COLOR][/B]
-[COLOR=#CBD5E0]C: Lisansınız ilk çalıştırdığınız bilgisayara güvenle bağlanır. Cihazınızı değiştirmeniz gerektiğinde Telegram @luanamobile üzerinden bize yazarak anında sıfırlatabilirsiniz.[/COLOR]
+[B][COLOR=#38BDF8]S: HWID Lisans Kilidi nedir? Bilgisayar?m? de?i?tirirsem ne olur?[/COLOR][/B]
+[COLOR=#CBD5E0]C: Lisans?n?z ilk ?al??t?rd???n?z bilgisayara g?venle ba?lan?r. Cihaz?n?z? de?i?tirmeniz gerekti?inde Telegram @luanamobile ?zerinden bize yazarak an?nda s?f?rlatabilirsiniz.[/COLOR]
 
-[B][COLOR=#38BDF8]S: Kendi müşterilerime lisans satabilir miyim (Bayilik)?[/COLOR][/B]
-[COLOR=#CBD5E0]C: Evet! Reseller (Bayi) panelimiz üzerinden toptan indirimli kredi alıp kendi adınıza lisans anahtarları üretebilir, müşterilerinize istediğiniz fiyattan satabilirsiniz.[/COLOR]
+[B][COLOR=#38BDF8]S: Kendi m??terilerime lisans satabilir miyim (Bayilik)?[/COLOR][/B]
+[COLOR=#CBD5E0]C: Evet! Reseller (Bayi) panelimiz ?zerinden toptan indirimli kredi al?p kendi ad?n?za lisans anahtarlar? ?retebilir, m??terilerinize istedi?iniz fiyattan satabilirsiniz.[/COLOR]
 
-[COLOR=#4A5568]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/COLOR]
+[COLOR=#4A5568]????????????????????????????????????????????????????????????????????????[/COLOR]
 
 [IMG]https://raw.githubusercontent.com/zuhayr635/hira-showcase/main/images/banner_04_contact.png[/IMG]
-[I][SIZE=1][COLOR=#718096](Görsel 8: İletişim ve Sipariş Banner'ı - images/banner_04_contact.png)[/COLOR][/SIZE][/I]
 
-[SIZE=5][FONT=Trebuchet MS][B][COLOR=#10B981]🚀 HEMEN SİPARİŞ VERİN & TEST KEYİ ALIN[/COLOR][/B][/FONT][/SIZE]
+[SIZE=5][FONT=Trebuchet MS][B][COLOR=#10B981]?? HEMEN S?PAR?? VER?N & TEST KEY? ALIN[/COLOR][/B][/FONT][/SIZE]
 
 [SIZE=4][FONT=Segoe UI]
-✈️ [B]Telegram:[/B] [URL="https://t.me/luanamobile"][COLOR=#38BDF8][B]@luanamobile[/B][/COLOR][/URL] [COLOR=#A0AEC0](7/24 Anında Yanıt)[/COLOR]
-💬 [B]WhatsApp:[/B] [URL="https://wa.me/905426730458"][COLOR=#4ADE80][B]0542 673 04 58[/B][/COLOR][/URL] [COLOR=#A0AEC0](Hızlı Destek & Sipariş)[/COLOR]
-🌐 [B]Canlı Demo & Web Site:[/B] [URL="https://hira.luanawork.com/"][COLOR=#F59E0B][B]https://hira.luanawork.com/[/B][/COLOR][/URL]
+?? [B]Telegram:[/B] [URL="https://t.me/luanamobile"][COLOR=#38BDF8][B]@luanamobile[/B][/COLOR][/URL] [COLOR=#A0AEC0](7/24 An?nda Yan?t)[/COLOR]
+?? [B]WhatsApp:[/B] [URL="https://wa.me/905426730458"][COLOR=#4ADE80][B]0542 673 04 58[/B][/COLOR][/URL] [COLOR=#A0AEC0](H?zl? Destek & Sipari?)[/COLOR]
+?? [B]Canl? Demo & Web Site:[/B] [URL="https://hira.luanawork.com/"][COLOR=#F59E0B][B]https://hira.luanawork.com/[/B][/COLOR][/URL]
 [/FONT][/SIZE]
 
 [SIZE=2][COLOR=#9CA3AF]
-Ödeme Yöntemleri: Havale / EFT / FAST / Kripto (USDT)
-Aktivasyon: Ödeme sonrası 5 dakika içinde anında anahtar teslimi!
+?deme Y?ntemleri: Havale / EFT / FAST / Kripto (USDT)
+Aktivasyon: ?deme sonras? 5 dakika i?inde an?nda anahtar teslimi!
 [/COLOR][/SIZE]
 
 [/CENTER]
